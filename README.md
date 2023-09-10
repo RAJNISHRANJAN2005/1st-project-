@@ -1,2 +1,2 @@
 # 1st-project-
- this is my forst project
+ this is my first repository
